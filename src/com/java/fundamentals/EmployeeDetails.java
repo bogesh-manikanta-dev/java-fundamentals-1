@@ -30,7 +30,7 @@ public class EmployeeDetails {
         System.out.print("Enter Performance Rating: ");
         float performanceRating = sc.nextFloat();
 
-        System.out.println("\nEmployee Details");
+        System.out.println("Employee Details");
         System.out.println("Employee ID: " + employeeId);
         System.out.println("Age: " + age);
         System.out.println("Department Code: " + departmentCode);
